@@ -1,0 +1,73 @@
+/*.authentication__header {
+    color: white;
+    text-align: center;
+}
+  
+.authentication {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+  
+.authentication form {
+    margin-bottom: 1rem;
+}
+
+.auth {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}*/
+
+form {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,.26);
+    padding-bottom: 0.1em;
+}
+
+form h3 {
+    border-bottom: 1px solid green;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1em 0;
+}
+
+form label, form input {
+    display: block;
+    margin: 0 auto;
+    margin-top: 1em;
+}
+
+form input {
+    padding: 0.3em;
+    width: 60%;
+}
+
+form:invalid .auth {
+    background-color: grey;
+    cursor: not-allowed;
+}
+
+form button {
+	font: inherit;
+	padding: .5rem 1.5rem;
+	border: 1px solid #738aee;
+	border-radius: 4px;
+	background: #738aee;
+	color: #fff;
+	cursor: pointer;
+    margin: 0.9em auto;
+    display: block;
+}
+
+form button:last-child {
+    background-color: #242424;
+    border: 1px solid #242424;
+}
+
+form button:last-child:hover {
+    background-color: #fff;
+    color: #242424;
+}
