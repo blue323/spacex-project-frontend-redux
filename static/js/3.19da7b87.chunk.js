@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[3],{70:function(c,e,t){},72:function(c,e,t){"use strict";t.r(e);t(1),t(70);var s=t(0);e.default=function(){return Object(s.jsxs)("div",{className:"home",children:[Object(s.jsx)("h2",{children:"Welcome to this spacex project"}),Object(s.jsx)("h3",{children:"In this project you can watch past spaceX launches"}),Object(s.jsx)("h3",{children:"Create an account and add or remove launches to your watchlist"})]})}}}]);
+//# sourceMappingURL=3.19da7b87.chunk.js.map
