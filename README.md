@@ -5,3 +5,5 @@ Same app than in https://github.com/blue323/spacex-project-frontend but it was r
 https://github.com/r-spacex/SpaceX-API
 
 You can create, delete or login to an account and add or remove launches from your watchlist.
+
+![spacex-demo](https://user-images.githubusercontent.com/36991474/232540147-be41bcaa-e400-4184-8e15-ab07c63137bd.gif)
